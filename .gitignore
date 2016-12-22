@@ -1,0 +1,7 @@
+raw_data/
+test1/
+derby.log
+Analysis/metastore_db
+Prediction/metastore_db
+.ipynb_checkpoints
+
