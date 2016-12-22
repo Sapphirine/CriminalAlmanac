@@ -1,6 +1,7 @@
 # CriminalAlmanac
 E6895 Big Data Final Project
-UNI: rz2357 yz2996
+Team: 201612-69
+UNI: rz2357 yz2996 nh2531
 
 ### Raw data
 We got the data from NYC opendata for [2016 crimes](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) and [2005-2015 crimes](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-YTD/5uac-w243). 
