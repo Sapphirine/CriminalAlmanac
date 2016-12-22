@@ -15,3 +15,13 @@ The `Prediction` folder includes jupyter notebook scrips of clean and build the 
 It trained both Naive Bayes model and Random Forest Model.
 
 The py file is used for processing all the 10 year data.
+
+### app
+The Falsk based application used to visulize the prediction on Gppgle Map.
+
+To start the app server, you need install flask first, run:
+```
+pip install flask
+python app.py
+```
+
